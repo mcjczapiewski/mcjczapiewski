@@ -1,1 +1,1 @@
-[![mcjczapiewski's github stats](https://github-readme-stats.vercel.app/api?username=mcjczapiewski)](https://github.com/mcjczapiewski/github-readme-stats)
+[![mcjczapiewski's github stats](https://github-readme-stats.vercel.app/api?username=mcjczapiewski&count_private=true&show_icons=true&theme=dracula)](https://github.com/mcjczapiewski/github-readme-stats)
