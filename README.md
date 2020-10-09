@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack development.**
 
-- ⚡ Side note **I want to be a backend dev.**
+- ⚡ Side note **Backend is what I like the most :wink:**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
