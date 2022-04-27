@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
 <h3 align="center">I really enjoy you looking here!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcjczapiewski&label=Profile%20views&color=af181e&style=flat" alt="mcjczapiewski" /> </p>
-
 - 🌱 I’m currently into **React and Python**
 
 - 👨‍💻 Most of my projects are available public (few projects are private thou).
@@ -33,4 +31,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mcjczapiewski&show_icons=true&title_color=af181e&text_color=adbac7&bg_color=22272e&locale=en" alt="mcjczapiewski" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcjczapiewski&theme=dark" alt="mcjczapiewski" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcjczapiewski&theme=dark" alt="mcjczapiewski" /></p>  
+  
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mcjczapiewski&label=Profile%20views&color=af181e&style=flat" alt="mcjczapiewski" /> </p>
